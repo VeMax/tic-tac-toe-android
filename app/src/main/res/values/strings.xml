@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+
+    <string name="enter_nick">Enter your nickname: </string>
+    <string name="join_chat">Join chat</string>
+
+    <string name="first_player">%1$s</string>
+    <string name="second_player">%1$s</string>
+    <string name="score">%1$d : %2$d</string>
+    <string name="winner">WINNER: %1$s</string>
+    <string name="user_disconnect">User disconnect</string>
+    <string name="no_winner">No winner!</string>
+
+    <string name="alert_nick">Nickname must contain more than 4 characters!</string>
+</resources>
